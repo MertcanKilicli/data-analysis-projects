@@ -1,5 +1,4 @@
 # data-analysis-projects
  
-# Analysis of the Fisher Iris Dataset 
-Comparison of the nutritional values of certain fruits per hundred grams (Water (g), Protein (g), Carbohydrate (g), Fat (g), Energy (kcal))
+In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
